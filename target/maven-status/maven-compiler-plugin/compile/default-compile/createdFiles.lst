@@ -1,0 +1,8 @@
+investectWeb\signUpPage.class
+investectWeb\searchResultsPage.class
+investectWeb\landingPage.class
+investectWeb\thankYouPage.class
+investecApi\investecApi.class
+investectWeb\understandingCashInvestmentPage.class
+investectWeb\searchPage.class
+common\baseClass.class
